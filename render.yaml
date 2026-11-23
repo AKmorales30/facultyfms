@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: faculty201-repository
+    name: facultyfms
     runtime: docker
     plan: free
     dockerfilePath: ./Dockerfile
